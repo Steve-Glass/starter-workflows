@@ -1,0 +1,6 @@
+{
+    "name": "Enabling Dependabot version updates for actions",
+    "description": "Use Dependabot to keep the actions you use updated to the latest versions!",
+    "iconName": "octicon dependabot",
+    "categories": ["Automation", "dependency-management"]
+}
